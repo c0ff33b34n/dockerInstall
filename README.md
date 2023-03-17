@@ -29,3 +29,5 @@ sudo apt-get install docker-ce docker-ce-cli containerd.io
 # Checking for Docker version:
 docker version
 
+# Oneliner: 
+wget https://raw.githubusercontent.com/c0ff33b34n/dockerInstall/main/dockerInstall.sh; chmod +x dockerInstall.sh; sudo ./dockerInstall.sh
