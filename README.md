@@ -1,4 +1,4 @@
-# dockerInstall
+# docker installer for linux
 
 # Uninstall Old Docker Versions:
 sudo apt-get remove docker docker-engine docker.io containerd runc
